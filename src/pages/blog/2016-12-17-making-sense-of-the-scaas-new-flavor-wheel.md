@@ -1,10 +1,17 @@
 ---
+thing:
+  nested:
+    title: fespojfsepjfpsej
+  title: sfsefefsefefs
 templateKey: blog-post
 title: This is a preview
 date: 2016-12-17T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
   tasters, has been revised for the first time this year.
+mainpitch:
+  title: lksefpjpesf
+  description: sfsefsef
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 tags:
